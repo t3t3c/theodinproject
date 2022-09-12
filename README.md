@@ -4,7 +4,21 @@
 
 Some of the topics we cover include:
 Nothing.
+
+How about that?
+
+- Ruby
+- Ruby on Rails
+- SQL
+- HTML and CSS
+- Javascript
+- Node
+- React
+- How to go about getting a job in the industry
+
 This repo contains the TOP app which pulls in lesson content as well as front-end and back-end code. To see the actual lesson content that gets pulled in, please go to the [TOP curriculum repo](https://github.com/TheOdinProject/curriculum).
+
+SOmoeone added text here
 
 Our community can be found on the [TOP Discord server](https://discord.gg/fbFCkYabZB).
 
